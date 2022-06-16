@@ -1,0 +1,2 @@
+2019-11-28 23:15:21[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\biometricows\app\controllers\RegistroController.php: 294[MESSAGGE]Undefined variable: result
+

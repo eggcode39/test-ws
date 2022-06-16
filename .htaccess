@@ -1,0 +1,9 @@
+RewriteEngine On
+
+RewriteRule ^media/(.+)?$ media/$1 [NC,L]
+
+RewriteRule ^api/(\w+)/(\w+)/?$ api.php?c=$1&a=$2
+RewriteRule ^api/(\w+)/(\w+)/([a-zA-Z0-9-]*)/?$ api.php?c=$1&a=$2&id=$3
+
+#Para depurar
+#&XDEBUG_SESSION_START=PHPSTORM

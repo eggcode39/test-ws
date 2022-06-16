@@ -1,0 +1,26 @@
+2019-12-05 19:03:40[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\biometricows\app\controllers\RegistroController.php: 376[MESSAGGE]Undefined index: fecha
+
+2019-12-05 19:03:41[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\biometricows\app\controllers\RegistroController.php: 377[MESSAGGE]require(app/viewcabezera_pdf.php): failed to open stream: No such file or directory
+
+2019-12-05 19:04:04[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\biometricows\app\controllers\RegistroController.php: 376[MESSAGGE]Undefined index: fecha
+
+2019-12-05 19:04:04[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\biometricows\app\controllers\RegistroController.php: 377[MESSAGGE]require(app/view/cabezera_pdf.php): failed to open stream: No such file or directory
+
+2019-12-05 19:04:25[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\biometricows\app\controllers\RegistroController.php: 376[MESSAGGE]Undefined index: fecha
+
+2019-12-05 19:04:25[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\biometricows\app\view\asistencia_pdf.php: 14[MESSAGGE]Undefined index: fecha
+
+2019-12-05 19:05:39[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\biometricows\app\controllers\RegistroController.php: 376[MESSAGGE]Undefined index: fecha
+
+2019-12-05 19:05:39[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\biometricows\app\view\asistencia_pdf.php: 14[MESSAGGE]Undefined index: fecha
+
+2019-12-05 19:06:35[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\biometricows\app\controllers\RegistroController.php: 376[MESSAGGE]Undefined index: fecha
+
+2019-12-05 19:06:35[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\biometricows\app\view\asistencia_pdf.php: 14[MESSAGGE]Undefined index: fecha
+
+2019-12-05 19:06:44[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\biometricows\app\view\asistencia_pdf.php: 22[MESSAGGE]Undefined property: stdClass::$DNI
+
+2019-12-05 19:06:44[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\biometricows\app\view\asistencia_pdf.php: 22[MESSAGGE]Undefined property: stdClass::$DNI
+
+2019-12-05 19:06:44[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\biometricows\app\view\asistencia_pdf.php: 22[MESSAGGE]Undefined property: stdClass::$DNI
+

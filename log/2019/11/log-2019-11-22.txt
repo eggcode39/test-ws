@@ -1,0 +1,8 @@
+2019-11-22 09:28:46[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\biometricows\app\controllers\RegistroController.php: 119[MESSAGGE]Undefined variable: result
+
+2019-11-22 09:29:55[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\biometricows\app\controllers\RegistroController.php: 120[MESSAGGE]Undefined variable: result
+
+2019-11-22 10:39:39[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\biometricows\app\controllers\RegistroController.php: 199[MESSAGGE]Undefined variable: result
+
+2019-11-22 11:16:33[UTC -5] [ip] ::1 [location] Registro|listar_asistencia_persona [text] SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2019-11-22 11:16:53[UTC -5] [ip] ::1 [location] Registro|listar_asistencia_persona [text] SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
